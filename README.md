@@ -16,7 +16,7 @@ then the path (if any) from bottom left  to upper right.
 
 Note : you can allow diagonal move by changing 
 `pf.diagonalModeAllowed = false;` to `true`
-
+```
 'C:\dev\JDK\jdk-11.0.9.101-hotspot\bin\java.exe'  '-Dfile.encoding=UTF-8' '-cp' 'C:\dev\github\RGPathFinding\target\classes' 'com.adelya.pathfinding.Main' 
 +--------------------+
 |XX   X   XXX    X   |
@@ -63,3 +63,4 @@ Note : you can allow diagonal move by changing
 |.X X         X   XX |
 |.X   X X X          |
 +--------------------+
+```
